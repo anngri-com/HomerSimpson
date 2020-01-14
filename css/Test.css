@@ -1,0 +1,17 @@
+.jumbotron {
+  background-color: #d9534f;
+  font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+.row { 
+  margin-top: -28px; 
+}
+
+.media {
+  margin-top: 40px;
+}
+
+.col-sm-12 {
+  font-size: 30px;
+  color: black;
+}
